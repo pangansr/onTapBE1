@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-qqqqddddddddddđccccccccccccc
-=======
-so 2 ffffffffffffff
->>>>>>> main
-so 3 thay doi
-
-so 4
+dffffffffffff<<<<<<< HEAD
+qqqqddddd454rfdwfdddddđccccccccccccc
+===ưer====
+so 2 ẻweffffffffffffff
+>>>>>fd
+sofd 4
