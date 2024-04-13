@@ -1,2 +1,6 @@
 du lieu trong local
+<<<<<<< HEAD
 thay doi du lieu duoi local
+=======
+thay doi du lieu tren github
+>>>>>>> origin/ss
