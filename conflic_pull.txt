@@ -4,3 +4,4 @@ thay doi du lieu duoi local
 =======
 thay doi du lieu tren github
 >>>>>>> origin/ss
+jj
